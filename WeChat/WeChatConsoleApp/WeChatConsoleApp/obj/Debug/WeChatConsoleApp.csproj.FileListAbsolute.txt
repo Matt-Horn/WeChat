@@ -1,0 +1,8 @@
+C:\Users\matth\Documents\GitHub\WeChat\WeChatConsoleApp\WeChatConsoleApp\bin\Debug\WeChatConsoleApp.exe.config
+C:\Users\matth\Documents\GitHub\WeChat\WeChatConsoleApp\WeChatConsoleApp\bin\Debug\WeChatConsoleApp.exe
+C:\Users\matth\Documents\GitHub\WeChat\WeChatConsoleApp\WeChatConsoleApp\bin\Debug\WeChatConsoleApp.pdb
+C:\Users\matth\Documents\GitHub\WeChat\WeChatConsoleApp\WeChatConsoleApp\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\matth\Documents\GitHub\WeChat\WeChatConsoleApp\WeChatConsoleApp\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\matth\Documents\GitHub\WeChat\WeChatConsoleApp\WeChatConsoleApp\obj\Debug\WeChatConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\matth\Documents\GitHub\WeChat\WeChatConsoleApp\WeChatConsoleApp\obj\Debug\WeChatConsoleApp.exe
+C:\Users\matth\Documents\GitHub\WeChat\WeChatConsoleApp\WeChatConsoleApp\obj\Debug\WeChatConsoleApp.pdb
